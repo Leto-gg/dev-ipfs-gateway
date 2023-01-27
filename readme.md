@@ -1,8 +1,7 @@
 # Leto.gg(gateway.leto.gg) 
 
-> A caching layer built for the leto metrics engine(this repo currently is using the configuration built by NFT.Storage)
+> A simple ipfs gateway built for the leto metrics engine(this repo currently is not in production and is only for testing API configurations ect.
 
-This repo was originally written by the team at NFT.Storage. Big thanks to them for making this project possible!
 
 ## Getting started
 
